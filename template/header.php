@@ -29,4 +29,6 @@
         </nav>
     </header>
 
+    <main class="flex-1 max-w-7xl mx-auto bg-amber-100 md:py-5 w-full">
+
     
